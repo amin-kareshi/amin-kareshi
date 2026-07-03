@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Amin Karashi 👋
 
-<!--
-**amin-kareshi/amin-kareshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 **B.Sc. in Computer Engineering** graduate from the **University of Kurdistan**.
+* 🤖 **AI Engineer** with a strong passion for solving complex problems and optimization.
+* ⚙️ Deeply interested in exploring and mastering **Algorithms** and **Data Structures**.
+* 🌱 Always eager to tackle new challenges and build efficient, intelligent solutions.
 
-Here are some ideas to get you started:
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-karashi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,pytorch,java,mysql,scikitlearn,git" alt="Amin's Skills" />
+  </a>
+</p>
+
+---
+<p align="center"><b>Always building, always learning</b></p>
