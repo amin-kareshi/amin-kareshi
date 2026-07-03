@@ -16,5 +16,3 @@
   </a>
 </p>
 
----
-<p align="center"><b>Always building, always learning</b></p>
