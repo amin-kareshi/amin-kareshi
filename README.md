@@ -1,4 +1,4 @@
-# Hi there, I'm Amin Karashi 👋
+# Hi there, I'm Amin Kareshi 👋
 
 ### 👨‍💻 About Me
 * 🎓 **B.Sc. in Computer Engineering** graduate from the **University of Kurdistan**.
